@@ -1,3 +1,3 @@
 Follow this format...
 | Name | GitHub Profile | Challenge |
-| --- | --- | --- |
+| Obuh Daniel Onyeyichukwu | obuhdaniel | Tip calculator|
